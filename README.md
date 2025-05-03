@@ -14,7 +14,7 @@ I think I will be a developer in the field of machine learning or full-stack
 ## 🛠 Skills
 Языки программирования, разметки, стилей\
 Programming languages, markup, styles\
-**Python**, **Javascript**, **HTML**, **CSS**
+**Python**, **Javascript**, **HTML**, **CSS**/
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ## 🔗 Links
