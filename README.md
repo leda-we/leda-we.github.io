@@ -1,17 +1,20 @@
-# leda-we.github.io
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+# Pofile title
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
+This is my profile on github
 
-</body>
-</html>
+
+##  About Me
+I think I will be a developer in the field of machine learning or full-stack
+
+# Hi, i'm ledawe or Stas
+
+
+## 🛠 Skills
+Языки программирования, разметки, стилей\
+Programming languages, markup, styles\
+Python, Javascript, HTML, CSS
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
+
+## 🔗 Links
+Пока что нет\
+not yet
